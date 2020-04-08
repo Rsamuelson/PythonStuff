@@ -1,3 +1,3 @@
 # PythonStuff
-*Auto-Clicker - Complete
-*Enigma Machine - In progress
+* Auto-Clicker - Complete
+* Enigma Machine - In progress
