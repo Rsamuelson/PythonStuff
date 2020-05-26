@@ -1,0 +1,49 @@
+rws15@gbb1122-12 MINGW64 /t/MIS_407/mis407f19-student-14/IA03 (master)
+$ python ia03_1.py
+what is the name of the file: ../../Iowa-Liquor-Sales-2018.csv
+Alcohol sales by store in STORY county:
+  1. AJ'S LIQUOR II                           49041.54
+  2. AJ's Liquor / Ames                        6391.52
+  3. AJ's Liquor III                          16275.55
+  4. CVS Pharmacy #10452  /  Ames              3498.97
+  5. Casey's General Store # 2560/ Ames        3250.41
+  6. Casey's General Store #1398 / Roland       782.67
+  7. Casey's General Store #23 / Maxwell       3069.40
+  8. Casey's General Store #2301 / Ames        2364.99
+  9. Casey's General Store #2304 / Slater      3725.65
+ 10. Casey's General Store #2490 / Story City  1393.76
+ 11. Casey's General Store #2842 / Huxley      3674.40
+ 12. Casey's General Store #2905 / Ames        1371.63
+ 13. Casey's General Store #2913 / Colo        3859.90
+ 14. Casey's General Store #3319 / Nevada      2907.30
+ 15. Cyclone Liquors                          33054.95
+ 16. Fareway Stores #093 / Ames               17177.58
+ 17. Fareway Stores #155 / Huxley             13318.12
+ 18. Fareway Stores #189 / Ames                2933.84
+ 19. Fareway Stores #386 / Ames               10938.57
+ 20. Fareway Stores #426 / Nevada             18889.40
+ 21. Good and Quick Co                        12818.85
+ 22. Hy-Vee  #2 / Ames                        96107.75
+ 23. Hy-Vee Drugstore #2 / Ames                4562.93
+ 24. Hy-Vee Food Store #1 / Ames              86038.45
+ 25. Kum & Go #113 / Ames                      4014.91
+ 26. Kum & Go #1215 / Ames                     5238.41
+ 27. Kum & Go #124 / Story City                4545.23
+ 28. Kum & Go #200 / Ames                      5024.99
+ 29. Kum & Go #214  Ames                       2696.72
+ 30. Kum & Go #216  Ames                       4893.18
+ 31. Kum & Go #227 / Ames                      4214.03
+ 32. Kum & Go #396 / Nevada                     629.68
+ 33. Kwik Stop Liquor & Groceries Ames        11120.46
+ 34. MMDG SPIRITS / Ames                      19379.50
+ 35. Sam's Club 6568 / Ames                   130694.25
+ 36. Story City Market                         4237.73
+ 37. Target Store T-1170 / Ames                9117.00
+ 38. The Filling Station / Ames                1997.21
+ 39. Wal-Mart 0749 / Ames                     32857.75
+ 40. Wal-Mart 4256 / Ames                     23161.10
+ 41. Walgreens #12108 / Ames                   3991.50
+ 42. White Oak Station #82 / Nevada            1134.21
+ 43. Yesway Store # 10020/ Story City          4112.39
+ 44. goPuff / Ames                              234.00
+Total: 670742.380 liters

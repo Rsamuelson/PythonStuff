@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    }
+    
+    *:focus {
+        outline: none;
+    }
+    body {
+    }
+    .amortization {
+    }
+    .amortization-screen {
+    }
+    
+    .app-title {
+    }
+    
+    .loan-form {
+    text-align: center;
+    }
+    .control-group {
+    margin-bottom: 10px;
+    }
+    
+    input {
+    text-align: right;
+    }
+    
+    input:focus {
+    border: 2px solid #3498DB;
+    box-shadow: none;
+    }
+    
+    .btn {
+      text-align: center;
+    }
+    
+    .btn:hover {
+      background-color: #2980B9;
+    }
+    
+    .loan-link {
+      font-size: 12px;
+    }
+    
+    .loan-payment {
+      text-align: center;
+    }
+    
+    .total-interest {
+      text-align: center;
+    }

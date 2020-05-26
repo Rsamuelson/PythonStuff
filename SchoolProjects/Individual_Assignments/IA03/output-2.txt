@@ -1,0 +1,10 @@
+rws15@gbb1122-12 MINGW64 /t/MIS_407/mis407f19-student-14/IA03 (master)
+$ python ia03_2.py
+what is the name of the file: ../../Iowa-Liquor-Sales-2018.csv
+Top 5 stores in STORY county alcohol sales by volume:
+  1. Sam's Club 6568 / Ames                    130694.25
+  2. Hy-Vee  #2 / Ames                          96107.75
+  3. Hy-Vee Food Store #1 / Ames                86038.45
+  4. AJ'S LIQUOR II                             49041.54
+  5. Cyclone Liquors                            33054.95
+

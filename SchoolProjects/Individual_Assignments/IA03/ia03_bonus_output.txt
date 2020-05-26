@@ -1,0 +1,48 @@
+rws15@gbb1122-12 MINGW64 /t/MIS_407/mis407f19-student-14/IA03 (master)
+$ python ia03_popular_booze.py
+what is the name of the file: ../../Iowa-Liquor-Sales-2018.csv
+Most popular product by volume in each store in STORY county:
+  1. AJ'S LIQUOR II                           Hawkeye Vodka                     3108.90
+  2. AJ's Liquor / Ames                       Hawkeye Vodka                      362.05
+  3. AJ's Liquor III                          Paramount Gold Rum                2716.00
+  4. CVS Pharmacy #10452  /  Ames             Hawkeye Vodka                      225.00
+  5. Casey's General Store # 2560/ Ames       Black Velvet                       723.00
+  6. Casey's General Store #1398 / Roland     Black Velvet                       123.75
+  7. Casey's General Store #23 / Maxwell      Black Velvet                       895.80
+  8. Casey's General Store #2301 / Ames       Five O'clock Vodka                 888.90
+  9. Casey's General Store #2304 / Slater     Black Velvet                       591.00
+ 10. Casey's General Store #2490 / Story City Hawkeye Vodka                      214.50
+ 11. Casey's General Store #2842 / Huxley     Five O'clock Vodka                 613.50
+ 12. Casey's General Store #2905 / Ames       Hawkeye Vodka                      219.00
+ 13. Casey's General Store #2913 / Colo       Black Velvet                      1143.00
+ 14. Casey's General Store #3319 / Nevada     Hawkeye Vodka                      762.00
+ 15. Cyclone Liquors                          Titos Handmade Vodka              1107.10
+ 16. Fareway Stores #093 / Ames               Titos Handmade Vodka              1561.50
+ 17. Fareway Stores #155 / Huxley             Titos Handmade Vodka              1503.00
+ 18. Fareway Stores #189 / Ames               Titos Handmade Vodka               234.00
+ 19. Fareway Stores #386 / Ames               Black Velvet                      1860.00
+ 20. Fareway Stores #426 / Nevada             Black Velvet                      3303.00
+ 21. Good and Quick Co                        Black Velvet                      1286.63
+ 22. Hy-Vee  #2 / Ames                        Black Velvet                      3937.20
+ 23. Hy-Vee Drugstore #2 / Ames               Black Velvet                      1167.45
+ 24. Hy-Vee Food Store #1 / Ames              Black Velvet                      3535.30
+ 25. Kum & Go #113 / Ames                     Hawkeye Vodka                      939.00
+ 26. Kum & Go #1215 / Ames                    Hawkeye Vodka                     1011.23
+ 27. Kum & Go #124 / Story City               Black Velvet                       808.75
+ 28. Kum & Go #200 / Ames                     Black Velvet                       806.49
+ 29. Kum & Go #214  Ames                      Hawkeye Vodka                      581.63
+ 30. Kum & Go #216  Ames                      Hawkeye Vodka                     1270.50
+ 31. Kum & Go #227 / Ames                     Hawkeye Vodka                      607.50
+ 32. Kum & Go #396 / Nevada                   Hawkeye Vodka                      154.50
+ 33. Kwik Stop Liquor & Groceries Ames        Black Velvet                       755.10
+ 34. MMDG SPIRITS / Ames                      Barton Vodka                      5078.00
+ 35. Sam's Club 6568 / Ames                   Barton Vodka                      9361.50
+ 36. Story City Market                        Black Velvet                       448.50
+ 37. Target Store T-1170 / Ames               Titos Handmade Vodka               780.00
+ 38. The Filling Station / Ames               Hawkeye Vodka                      246.75
+ 39. Wal-Mart 0749 / Ames                     Black Velvet                      2350.50
+ 40. Wal-Mart 4256 / Ames                     Hawkeye Vodka                     1842.00
+ 41. Walgreens #12108 / Ames                  Hawkeye Vodka                      927.00
+ 42. White Oak Station #82 / Nevada           Hawkeye Vodka                      237.00
+ 43. Yesway Store # 10020/ Story City         Hawkeye Vodka                     1104.00
+ 44. goPuff / Ames                            Svedka Strawberry Lemonade           8.25

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MIS407 IA05</title>
+  <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}" type="text/css" />
+</head>
+{% block body %}
+
+	<div class="amortization">
+		<div class="amortization-screen">
+			<div class="app-title">
+				<h1>Loan Amortization - Results</h1>
+			</div>
+
+      <a href="/">Back</a>
+
+      <div class="loan-payment">Monthly Payment: {{ payment }}</div>
+      <div class="total-interest">Total Interest Paid: {{ total_interest }}</div>
+
+        <table class="loan-table">
+
+        <tr>
+          <th>Month</th>
+          <th>Payment</th>
+          <th>Principal</th>
+          <th>Interest</th>
+          <th>Balance</th>
+        </tr>
+
+        {% for row in amort_table %}
+        <tr>
+          <td class="c1">{{row.month}}</td>
+          <td class="c2">{{row.payment}}</td>
+          <td class="c3">{{row.principal}}</td>
+          <td class="c4">{{row.interest}}</td>
+          <td class="c5">{{row.balance}}</td>
+        </tr>
+        {% endfor %}
+      </table>
+
+      <a href="/">Back</a>
+
+		</div>
+	</div>
+
+{% endblock %}

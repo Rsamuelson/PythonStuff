@@ -1,0 +1,24 @@
+
+rws15@gbb1117-37 MINGW64 ~
+$ cd ../t/MIS_407/
+
+rws15@gbb1117-37 MINGW64 /t/MIS_407
+$ de mis407f19-student-14/
+bash: de: command not found
+
+rws15@gbb1117-37 MINGW64 /t/MIS_407
+$ cd mis407f19-student-14/
+
+rws15@gbb1117-37 MINGW64 /t/MIS_407/mis407f19-student-14 (master)
+$ cd Test1/
+
+rws15@gbb1117-37 MINGW64 /t/MIS_407/mis407f19-student-14/Test1 (master)
+$ git pull
+Already up to date.
+
+rws15@gbb1117-37 MINGW64 /t/MIS_407/mis407f19-student-14/Test1 (master)
+$ git branch
+* master
+
+rws15@gbb1117-37 MINGW64 /t/MIS_407/mis407f19-student-14/Test1 (master)
+$

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MIS407 IA05</title>
+  <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}" type="text/css" />
+</head>
+{% block body %}
+
+<form action="/compute" method="POST">
+	<div class="amortization">
+		<div class="amortization-screen">
+			<div class="app-title">
+				<h1>Loan Amortization</h1>
+			</div>
+
+			<div class="loan-form">
+				<div class="control-group">
+				  <label class="rate-field-label" for="rate">Rate:</label>
+          <input type="text" class="rate-field" value="" placeholder="0.0" name="rate">
+				</div>
+
+				<div class="control-group">
+          <label class="years-field-label" for="years">Years:</label>
+				  <input class="years-field" value="" placeholder="0" name="years">
+				</div>
+
+        <div class="control-group">
+          <label class="amount-field-label" for="amount">Amount:</label>
+				  <input class="amount-field" value="" placeholder="0.0" name="amount">
+				</div>
+
+        <input type="submit" value="Compute" class="btn btn-primary btn-large btn-block" >
+			  <br/>
+			</div>
+		</div>
+	</div>
+</form>
+
+{% endblock %}
